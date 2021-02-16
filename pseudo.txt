@@ -1,0 +1,10 @@
+Champions Draft GUI
+
+Class Window GUI
+   Function for creating the frame
+        method for creating the buttons frame
+        method for creating the textbox for results
+
+Class for Champions
+    Stats for the champions
+    abilities
